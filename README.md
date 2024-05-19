@@ -1,12 +1,8 @@
-# Discord Bot - Rat
+# Discord Rat Bot 
 
-This Discord bot provides random advice on various topics.
+You can control this RAT with your own discord bot
 
-## Features
-- Get random advice suggestions.
-- Easy to integrate with your Discord server.
-- Educational and fun to use.
 
-![Random Advice](random_advice.jpg)
+![Features:](https://github.com/Paloox/discord-rat/assets/167614497/df98f640-099c-476c-ac72-aa40c9c8eabd)
 
 **Note: This bot is created for educational purposes only.**
